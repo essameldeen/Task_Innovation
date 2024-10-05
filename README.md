@@ -30,7 +30,7 @@ The app is built using the MVI (Model-View-Intent) architecture:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/essameldeen/.git
+    git clone https://github.com/essameldeen/Task_Innovation.git
  
     ```
 
